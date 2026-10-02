@@ -1,0 +1,29 @@
+{
+  "name": "taiga-ui-15144-repro",
+  "private": true,
+  "scripts": {
+    "start": "ng serve"
+  },
+  "dependencies": {
+    "@angular/cdk": "21.2.14",
+    "@angular/common": "21.2.25",
+    "@angular/compiler": "21.2.25",
+    "@angular/core": "21.2.25",
+    "@angular/forms": "21.2.25",
+    "@angular/platform-browser": "21.2.25",
+    "@angular/router": "21.2.25",
+    "@taiga-ui/cdk": "5.26.0",
+    "@taiga-ui/core": "5.26.0",
+    "@taiga-ui/kit": "5.26.0",
+    "@taiga-ui/styles": "5.26.0",
+    "rxjs": "~7.8.2",
+    "tslib": "^2.8.1"
+  },
+  "devDependencies": {
+    "@angular/build": "21.2.24",
+    "@angular/cli": "21.2.24",
+    "@angular/compiler-cli": "21.2.25",
+    "less": "^4.9.1",
+    "typescript": "~5.9.3"
+  }
+}
